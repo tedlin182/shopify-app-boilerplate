@@ -1,6 +1,15 @@
+![Shopify App](https://www.custom-gateway.com/wp-content/uploads/2017/03/shopify.png)
+
+#### Shopify App Boilerplate
+
+- Taken from [Shopify App Boilerplate](https://shopify.dev/tutorials/build-a-shopify-app-with-node-and-react)
+
+- Slightly modified to allow for ES6 syntax in `server.js` and other fixes present in the above setup.
+
+
 #### Shopify App Resources
 
-[Building Shopify Apps](https://shopify.dev/concepts/apps)\
+[Building Shopify Apps](https://shopify.dev/concepts/apps)
 
 [Shopify App Boilerplate](https://shopify.dev/tutorials/build-a-shopify-app-with-node-and-react)
 
