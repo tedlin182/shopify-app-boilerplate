@@ -1,0 +1,20 @@
+{
+  "presets": [
+    [
+      "next/babel",
+      {
+        "preset-env": {
+          "targets": {
+            "node": "current"
+          }
+        },
+        "transform-runtime": {},
+        "styled-jsx": {},
+        "class-properties": {}
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ]
+}
